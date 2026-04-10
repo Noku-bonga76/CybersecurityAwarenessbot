@@ -24,3 +24,6 @@ Or from command line:
 dotnet restore
 dotnet build
 dotnet run
+
+##Screenshot CI
+![Cybersecurity Awareness Bot Running](screenshot-running.png)
